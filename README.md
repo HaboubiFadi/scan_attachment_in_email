@@ -24,12 +24,6 @@ the Email we are working on :
 
 
 
-Scan the files :
-
-
-
-
-![Capture d’écran 2023-05-01 224134](https://github.com/HaboubiFadi/scan_attachment_in_email/assets/138848259/f0728fae-4ea8-4a05-9688-996737402852)
 
 
 
